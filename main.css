@@ -24,8 +24,12 @@ body {
     font-family: "Anton", sans-serif;
 }
 
-.main-header{
+.main-header {
     width: 100%;
     background: #2ddf5c;
     padding: 8px 16px;
+}
+
+.main-nav__item {
+    display: inline-block;
 }
